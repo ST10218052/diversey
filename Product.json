@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 200,
+        "image": "_images/Ccleaner.jpeg",
+        "description":"sssssssssssss"
+    },
+    {
+        "id": 2,
+        "name":"Tile Cleaners" ,
+        "price": 250,
+        "image": "_images/cleaningChemicals.jpeg",
+        "description":"ssssssssssss"
+        
+    },
+    {
+        "id": 3,
+        "name":" SUMA NOVA ",
+        "price": 290,
+        "image": "_images/suma.jpg",
+        "description":"ssssssssssss"
+    },
+    {
+        "id": 4,
+        "name":" SURE CLEARNER ",
+        "price": 200,
+        "image":"_images/sureCleaner.jpeg",
+        "description": "sssssssssssss"
+    },
+    {
+         "description": "sssssssssssss",
+        "id": 5,
+        "name":" SILVO",
+        "price": 300,
+        "image": "_images/Silvo.jpg"
+       
+       
+    },
+    {
+        "id": 6,
+        "name":" Surface Non-Acid Disinfectant",
+        "price": 200,
+        "image":"_images/RTD.webp",
+         "description": "sssssssssssss"
+        
+    },
+    {
+        "id": 7,
+        "name":" CREW",
+        "price": 200,
+        "image": "_images/Crew.jpg"
+    },
+    {
+        "id": 8,
+        "name":" DESCLAE",
+        "price": 200,
+        "image": "_images/Descale.jpg"
+    }
+
+]
